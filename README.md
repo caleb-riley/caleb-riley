@@ -2,7 +2,7 @@
 
 I'm a **third-year Computer Science student at RIT**, graduating in **2026**.
 My interests lie in **Machine Learning**, **Artificial Intelligence**, and **Systems Programming**.
-I'm currently **seeking a Spring 2026 co-op** opportunity.
+I'm currently **seeking a Summer 2026 co-op** opportunity.
 
 ---
 
@@ -17,6 +17,8 @@ I'm currently **seeking a Spring 2026 co-op** opportunity.
 - Building interpreters and compilers in Rust
 - Exploring ML models and efficient runtime systems
 - Developing full-stack apps with Rust backends and modern web frontends
+  - Chatter, an online messaging platform similar to Discord
+  - [Chesser](https://www.github.com/caleb-riley/chesser), an online Chess platform with custom pieces and rules
 
 ---
 
